@@ -94,6 +94,8 @@ var files = [
   "jsdom/node-location.js",
   "living-html/named-properties-window.js",
 
+  "jsdom/newapi1.js",
+
   "jsonp/jsonp.js",
   "browser/css.js",
   "browser/index.js",
